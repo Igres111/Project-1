@@ -1,0 +1,14 @@
+.box {
+  text-align: center;
+  font-family: "Manrope", sans-serif;
+}
+.head {
+  font-weight: 800;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.par {
+  color: #777f98;
+  font-size: 15px;
+  font-weight: 500;
+}
